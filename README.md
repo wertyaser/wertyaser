@@ -12,9 +12,12 @@ Welcome to my GitHub profile! I'm a passionate Junior Fullstack Developer with a
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=wertyaser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wertyaser&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wertyaser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wertyaser&show_icons=true&locale=en&layout=compact" alt="wertyaser" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wertyaser&show_icons=true&locale=en" alt="wertyaser" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wertyaser&" alt="wertyaser" /></p>
+
 
 ---
 
